@@ -1,0 +1,32 @@
+{
+  "name": "zetta-pir-edison-driver",
+  "version": "0.1.0",
+  "description": "PIR Intel Edison Driver for Zetta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anil614sagar/zetta-pir-edison-driver.git"
+  },
+  "keywords": [
+    "Zetta",
+    "Intel",
+    "Edison",
+    "PIR",
+    "Motion",
+    "Sensor"
+  ],
+  "author": "Anil Sagar <anil614sagar@gmail.com> (https://in.linkedin.com/in/anilsagar/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anil614sagar/zetta-pir-edison-driver/issues"
+  },
+  "homepage": "https://github.com/anil614sagar/zetta-pir-edison-driver",
+  "dependencies": {
+    "mraa-js": "^0.1.0",
+    "zetta-auto-scout": "^0.5.0",
+    "zetta-device": "^0.7.0"
+  }
+}
